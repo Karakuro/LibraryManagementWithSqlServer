@@ -1,0 +1,6 @@
+@LibraryManagementWithSqlServer_HostAddress = http://localhost:5143
+
+GET {{LibraryManagementWithSqlServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
